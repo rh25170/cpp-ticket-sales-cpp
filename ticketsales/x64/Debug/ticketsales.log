@@ -1,0 +1,4 @@
+﻿  Source.cpp
+c:\users\ryan\documents\school\freshman\2nd semester\computer science\programs\lab assignments\m05 lab assignment 2\ticketsales\ticketsales\source.cpp(25): error C2065: 'myfile': undeclared identifier
+c:\users\ryan\documents\school\freshman\2nd semester\computer science\programs\lab assignments\m05 lab assignment 2\ticketsales\ticketsales\source.cpp(25): error C2228: left of '.open' must have class/struct/union
+  c:\users\ryan\documents\school\freshman\2nd semester\computer science\programs\lab assignments\m05 lab assignment 2\ticketsales\ticketsales\source.cpp(25): note: type is 'unknown-type'

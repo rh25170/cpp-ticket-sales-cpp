@@ -1,0 +1,5 @@
+﻿  Source.cpp
+c:\users\ryan\documents\school\freshman\2nd semester\computer science\programs\lab assignments\m05 lab assignment 2\ticketsales\ticketsales\source.cpp(31): error C4700: uninitialized local variable 'box' used
+c:\users\ryan\documents\school\freshman\2nd semester\computer science\programs\lab assignments\m05 lab assignment 2\ticketsales\ticketsales\source.cpp(32): error C4700: uninitialized local variable 'sideline' used
+c:\users\ryan\documents\school\freshman\2nd semester\computer science\programs\lab assignments\m05 lab assignment 2\ticketsales\ticketsales\source.cpp(33): error C4700: uninitialized local variable 'premium' used
+c:\users\ryan\documents\school\freshman\2nd semester\computer science\programs\lab assignments\m05 lab assignment 2\ticketsales\ticketsales\source.cpp(34): error C4700: uninitialized local variable 'generaladmiss' used
